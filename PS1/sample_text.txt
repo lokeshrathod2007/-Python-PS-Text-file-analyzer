@@ -1,0 +1,4 @@
+This is a sample text file.
+This file is used for text analysis.
+Text analysis is useful.
+

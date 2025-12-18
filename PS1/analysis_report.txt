@@ -1,0 +1,27 @@
+TEXT FILE ANALYZER
+File: sample_text.txt
+
+STATISTICS:
+Total Lines: 3
+Total Words: 17
+Total Characters: 90
+Unique Words: 10
+Average Word Length: 4.1 characters
+
+ANALYSIS:
+Lines per page: 3 (Assumed 1 page for single file context, or N/A)
+Words per line: 5.7
+Characters per line: 30.0
+
+TOP 10 MOST COMMON WORDS:
+1. is - 3 occurrences
+2. text - 3 occurrences
+3. this - 2 occurrences
+4. file - 2 occurrences
+5. analysis - 2 occurrences
+6. a - 1 occurrences
+7. sample - 1 occurrences
+8. used - 1 occurrences
+9. for - 1 occurrences
+10. useful - 1 occurrences
+
